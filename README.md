@@ -1,3 +1,3 @@
 # menu
-przyklejane menu - jquery
+przyklejane menu - jquery,
 rozwijanie opcji - css
